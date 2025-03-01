@@ -1,4 +1,2 @@
 # Github-Repo
-Hi, This is my first Github repo.
-<br>
-Ok.
+Hi this my readme file...
